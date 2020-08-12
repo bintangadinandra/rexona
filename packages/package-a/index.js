@@ -1,5 +1,5 @@
 function quoteMe() {
-    return 'Hello World!'
+    return 'Hello World'
 }
 
 module.exports = quoteMe
